@@ -14,7 +14,7 @@ Cognitive science shows that retention improves significantly when new informati
 ## 🛠️ The Solution
 **PersonaLearn** uses Google's Gemini Pro to dynamically reframe syllabi (UPSC, School, General) into analogies based on the user's hobbies. 
 
-* **Don't understand Newton's Laws?** Read an explanation based on Cricket physics.
+* **Don't understand Trigonometry?** Read an explanation based on Cricket.
 * **Confused by Blockchain?** Learn it through Minecraft block analogies.
 
 ## ✨ Key Features
