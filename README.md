@@ -57,15 +57,15 @@ Cognitive science shows that retention improves significantly when new informati
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your Landing Page here)*
-*(Add a screenshot of the Learning Interface here)*
+![image alt](https://github.com/Soham-o/PersonaLearn/blob/4ea980b69e0af30d47ec3894c9f0ff8d4977d9a3/Screenshot%202026-01-18%20122655.png)
+![image alt](https://github.com/Soham-o/PersonaLearn/blob/4ea980b69e0af30d47ec3894c9f0ff8d4977d9a3/Screenshot%202026-01-18%20122834.png)
 
 ## 🏗️ How it Works
 1.  **Input:** User selects a topic (e.g., "Photosynthesis") and an Interest (e.g., "Marvel").
 2.  **Processing:** The app constructs a prompt for `gemini-pro` to explain the concept using the selected interest domain.
 3.  **Output:** A translated explanation is displayed.
 4.  **Assessment:** The AI dynamically generates a quiz based *only* on the explanation provided.
-
+![image alt](https://github.com/Soham-o/PersonaLearn/blob/4ea980b69e0af30d47ec3894c9f0ff8d4977d9a3/Screenshot%202026-01-18%20123003.png)
 ## 👥 The Team
 Built during a 3-hour rapid development sprint by:
 * **[Innovsphere]** 
