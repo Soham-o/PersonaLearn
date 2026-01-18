@@ -69,7 +69,7 @@ Cognitive science shows that retention improves significantly when new informati
 ## 👥 The Team
 Built during a 3-hour rapid development sprint by:
 * **[Innovsphere]** 
-* **[Chnitanya]** 
+* **[Chaitanya]** 
 * **[Nishant]** 
 * **[Lavisha]** 
 * **[Ayush]** 
