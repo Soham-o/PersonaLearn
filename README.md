@@ -66,9 +66,8 @@ Cognitive science shows that retention improves significantly when new informati
 3.  **Output:** A translated explanation is displayed.
 4.  **Assessment:** The AI dynamically generates a quiz based *only* on the explanation provided.
 ![image alt](https://github.com/Soham-o/PersonaLearn/blob/4ea980b69e0af30d47ec3894c9f0ff8d4977d9a3/Screenshot%202026-01-18%20123003.png)
-## 👥 The Team
+## 👥 Team Innovsphere
 Built during a 3-hour rapid development sprint by:
-* **[Innovsphere]** 
 * **[Chaitanya]** 
 * **[Nishant]** 
 * **[Lavisha]** 
